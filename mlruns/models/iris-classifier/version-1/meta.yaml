@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723108262083
+current_stage: None
+description: null
+last_updated_timestamp: 1723108262083
+name: iris-classifier
+run_id: 19cf12b0bfa245c18cae23351fd6a99f
+run_link: null
+source: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/19cf12b0bfa245c18cae23351fd6a99f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/19cf12b0bfa245c18cae23351fd6a99f/artifacts/model
+user_id: null
+version: 1

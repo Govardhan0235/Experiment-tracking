@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/19cf12b0bfa245c18cae23351fd6a99f/artifacts
+end_time: 1723108262086
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 19cf12b0bfa245c18cae23351fd6a99f
+run_name: handsome-mare-82
+run_uuid: 19cf12b0bfa245c18cae23351fd6a99f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723108259042
+status: 3
+tags: []
+user_id: codespace

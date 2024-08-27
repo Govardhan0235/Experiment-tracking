@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/77f690de123347b1ac2afb8a970d9aba/artifacts
+end_time: 1723025163951
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 77f690de123347b1ac2afb8a970d9aba
+run_name: delightful-crow-892
+run_uuid: 77f690de123347b1ac2afb8a970d9aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723025163857
+status: 3
+tags: []
+user_id: codespace

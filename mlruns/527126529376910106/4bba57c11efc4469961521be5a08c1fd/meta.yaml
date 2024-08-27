@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/4bba57c11efc4469961521be5a08c1fd/artifacts
+end_time: 1723093922447
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 4bba57c11efc4469961521be5a08c1fd
+run_name: casual-steed-639
+run_uuid: 4bba57c11efc4469961521be5a08c1fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723093922347
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/c4665162024a450a99e81056a46207c7/artifacts
+end_time: 1723025052682
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: c4665162024a450a99e81056a46207c7
+run_name: treasured-gull-142
+run_uuid: c4665162024a450a99e81056a46207c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723025052588
+status: 4
+tags: []
+user_id: codespace

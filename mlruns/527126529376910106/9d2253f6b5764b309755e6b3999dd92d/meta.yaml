@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/9d2253f6b5764b309755e6b3999dd92d/artifacts
+end_time: 1723108361029
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 9d2253f6b5764b309755e6b3999dd92d
+run_name: invincible-whale-263
+run_uuid: 9d2253f6b5764b309755e6b3999dd92d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723108360936
+status: 3
+tags: []
+user_id: codespace

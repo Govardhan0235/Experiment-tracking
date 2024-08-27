@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/461b60e8619e4af98b97e0ad68505752/artifacts
+end_time: 1723093904696
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 461b60e8619e4af98b97e0ad68505752
+run_name: skillful-cow-130
+run_uuid: 461b60e8619e4af98b97e0ad68505752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723093904596
+status: 4
+tags: []
+user_id: codespace

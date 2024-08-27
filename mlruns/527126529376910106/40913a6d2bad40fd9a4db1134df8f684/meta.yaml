@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/40913a6d2bad40fd9a4db1134df8f684/artifacts
+end_time: 1723027718234
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 40913a6d2bad40fd9a4db1134df8f684
+run_name: aged-goat-820
+run_uuid: 40913a6d2bad40fd9a4db1134df8f684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723027718126
+status: 4
+tags: []
+user_id: codespace

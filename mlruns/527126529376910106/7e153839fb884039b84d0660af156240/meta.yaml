@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/7e153839fb884039b84d0660af156240/artifacts
+end_time: 1723025217421
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 7e153839fb884039b84d0660af156240
+run_name: mysterious-shrew-48
+run_uuid: 7e153839fb884039b84d0660af156240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723025217323
+status: 3
+tags: []
+user_id: codespace

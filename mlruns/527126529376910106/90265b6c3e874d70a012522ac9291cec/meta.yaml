@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment-tracking/mlruns/527126529376910106/90265b6c3e874d70a012522ac9291cec/artifacts
+end_time: 1723108243064
+entry_point_name: ''
+experiment_id: '527126529376910106'
+lifecycle_stage: active
+run_id: 90265b6c3e874d70a012522ac9291cec
+run_name: victorious-bee-22
+run_uuid: 90265b6c3e874d70a012522ac9291cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723108243054
+status: 4
+tags: []
+user_id: codespace
